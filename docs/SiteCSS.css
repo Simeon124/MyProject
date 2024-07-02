@@ -1,0 +1,26 @@
+body
+{
+    background-image: url("MainMenuBackg.jpg");
+    background-size: 100%;
+    background-color: #fdfffc;
+    margin: 0;
+    padding: 0;
+}
+
+.UI
+{
+    background-color: #235789;
+    height: 0px;
+    width: 1805px;
+    color:#fdfffc;
+    padding-left: 6%;
+    padding-top: 1%;   
+    padding-bottom: 7%;
+
+    font-size: 250%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+    
+}
