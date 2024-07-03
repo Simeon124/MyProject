@@ -31,3 +31,18 @@ img#logo
     right: 40%;
 
 }
+
+.navigation
+{
+    display: flex;
+    justify-content: start;
+    padding-left: 10%;
+    background-color: cadetblue;
+    text-align: center;
+
+}
+
+.li
+{
+    font-size: 5rem;
+}
