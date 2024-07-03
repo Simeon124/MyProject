@@ -9,9 +9,9 @@ body
 
 .UI
 {
-    background-color: #235789;
+    background-color: #637571;
     height: 0px;
-    width: 1805px;
+    width:auto;
     color:#fdfffc;
     padding-left: 6%;
     padding-top: 1%;   
@@ -23,4 +23,11 @@ body
     
 
     
+}
+img#logo
+{
+    margin-left: auto;
+    position: relative;
+    right: 40%;
+
 }
