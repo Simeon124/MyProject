@@ -1,0 +1,21 @@
+main
+{
+    font-family:fantasy;
+    color:rgb(0, 48, 54);
+    font-size: 20px;
+    color:white;
+    padding: 2%;
+    text-shadow:1px 1px black;
+}
+.videos
+{
+    display: flex;
+    border-style:groove;
+    border-radius: 10%;
+    border-color:aquamarine;
+    border-width: 0.5rem;
+}
+.pageText
+{
+    padding:1%
+}
