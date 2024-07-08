@@ -34,4 +34,7 @@ li
 {
     color:rgb(31, 31, 112)
 }
+.carousel-inner  {
+    width: 35%;
+}
 
