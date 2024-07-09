@@ -30,12 +30,17 @@ img#logo
 
 }
 
-a:hover
+footer
 {
+    backdrop-filter: blur(1.1rem);
+    width: 100%;
+    position: absolute;
+    top:100%;
+    left: 0%;
+    right: 20%;
+    background-color: rgba(0, 0, 0, 0.747);
+    display: flex;
+    justify-content: center;
     
 }
-a
-{
-    text-decoration: none;
-    color: white;
-}
+
