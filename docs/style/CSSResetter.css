@@ -29,3 +29,13 @@ img#logo
     height: 5rem;
 
 }
+
+a:hover
+{
+    
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}

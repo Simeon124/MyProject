@@ -24,8 +24,13 @@ body
     text-shadow:1px 1px black;
     padding:1%
 }
+
 h1
 {
     font-family:'Courier New', Courier, monospace;
     text-decoration:dashed;
+}
+а:hover
+{
+    list-style-type: none;
 }
